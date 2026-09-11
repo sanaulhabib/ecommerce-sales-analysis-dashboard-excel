@@ -8,7 +8,8 @@ This project looks at one year of order data from Vrinda Store, an online seller
 I cleaned the raw data, organized it properly, and built an interactive dashboard all inside Microsoft Excel, no other tool used. The dashboard shows total sales, total orders, average order value, total quantity sold,total customer, monthly sales trend, sales by category, sales by gender, top 5 states by sales, sales by age group, sales by order channel and order status.
 
 ## 🖼️ Dashboard Preview
-<img width="1366" height="768" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/b586f058-b368-439a-a28d-206a7ae36971" />
+<img width="1366" height="768" alt="dashboard-screenshot" src="https://github.com/user-attachments/assets/36e2bdcc-3aa1-4140-b2bf-e6cd1e36156b" />
+
 
 
 ## 🎯 Business Problem

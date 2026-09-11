@@ -1,5 +1,5 @@
 # Ecommerce Sales Analysis Dashboard (Excel)
-Excel sales dashboard showing sales KPIs, trends, and breakdowns by category, gender, states, age group, channel, and order status.
+Excel sales dashboard showing KPIs, trends, and breakdowns by category, gender, states, age group, channel, and order status.
 
 ## 📌 Project Overview
 

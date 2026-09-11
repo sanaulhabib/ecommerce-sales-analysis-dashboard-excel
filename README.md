@@ -33,10 +33,10 @@ I split that big messy sheet into separate tables, connected them by building a 
 ## 🔄 Project Workflow
 
 - Cleaned the raw, messy data by fixing missing values, removing duplicates, and fixing capitalization and formatting issues using power query
-- Split the big data into one fact table and five dimension tables, and also created a new dimension table for the calendar.
+- Split the big data into one fact table and five dimension tables, and also created a new dimension table for the calendar
 - Connected all the tables by building a star schema data model
-- Wrote DAX measures for KPI cards and built pivot tables for monthly trend, category, gender, top 5 states, age group, channel, and order status.
-- Built an interactive dashboard showing KPI cards, charts, and slicers.
+- Wrote DAX measures for KPI cards and built pivot tables for monthly trend, category, gender, top 5 states, age group, channel, and order status
+- Built an interactive dashboard showing KPI cards, charts, and slicers
 
 ## 📐 Data Model
 

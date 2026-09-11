@@ -3,13 +3,13 @@ Excel sales dashboard showing KPIs, trends, and breakdowns by category, gender, 
 
 ## 📌 Project Overview
 
-This project looks at a company's sales data and turns it into an easy to read dashboard. The data covers 5 regions, more than 20 product types, and different order channels, over about 20 months (Feb 2025 – Oct 2026).
+This project looks at one year of order data from Vrinda Store, an online seller that sells on multiple platforms (Amazon, Myntra, Flipkart, Ajio, Meesho, Nalli, and others). The data has 37,917 orders from over 28,437 customers across 50 states in India.
 
-I cleaned the raw data, organized it properly, and built an interactive Power BI dashboard. The dashboard shows total sales, profit, cost, profit margin, total order, avg. order value, monthly sales trend, sales vs profit by region and how each region, product, channel and segment is performing.
-
+I cleaned the raw data, organized it properly, and built an interactive dashboard all inside Microsoft Excel, no other tool used. The dashboard shows total sales, total orders, average order value, total quantity sold,total customer, monthly sales trend, sales by category, sales by gender, top 5 states by sales, sales by age group, sales by order channel and order status.
 
 ## 🖼️ Dashboard Preview
-<img width="1024" height="587" alt="sales-analysis-dashboard" src="https://github.com/user-attachments/assets/3ed22ed4-37ac-412a-bc5f-ed64d9853053" />
+<img width="1366" height="768" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/b586f058-b368-439a-a28d-206a7ae36971" />
+
 
 ## 🎯 Business Problem
 Vrinda Store sells the same products on six different online platforms, to customers all over the country. But all the order data was in one big messy sheet, so it was hard to see how the business was really doing. The company needed simple answers to:
